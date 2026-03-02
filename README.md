@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Mohite</h1>
 <h3 align="center">A full stack java developer from India</h3>
 
-- 🔭 I’m currently working on [AI Email Reply Generator](https://github.com/u1t2k/AIEmailReplyGeneratorProject)
+- 🔭 I’m currently working on [Improving my skills in Full Stack Java Development](https://github.com/u1t2k/AIEmailReplyGeneratorProject)
 
 - 🌱 I’m currently learning **Spring Boot & Spring Security React.js (Advanced Concepts) REST APIs & Microservices AI Integration in Web Applications**
 
